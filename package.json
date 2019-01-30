@@ -1,0 +1,21 @@
+{
+  "name": "movie-list-practice",
+  "version": "1.0.0",
+  "description": "This is a movie list",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singer30/Movie-list-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singer30/Movie-list-practice/issues"
+  },
+  "homepage": "https://github.com/singer30/Movie-list-practice#readme"
+}
